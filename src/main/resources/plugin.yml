@@ -4,3 +4,4 @@ main: zachson.dev.setscore.SetScore
 api-version: '1.20'
 authors: [ZachsonDev]
 description: Scoreboards made easy!
+softdepend: [ PlaceHolderAPI ]

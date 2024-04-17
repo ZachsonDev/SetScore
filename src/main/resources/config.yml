@@ -1,0 +1,14 @@
+title: '&4&lYour &5&lServer &1&lIp  &8(&f%server_online%&8/&f%server_max_players%&8)'
+
+scores:
+  - ''
+  - '&3&lWebsite: &f&u&oExample.com'
+  - '&b&lPlayer: &f%player_name%'
+  - '&c&lHealth: &f%player_health%'
+  - '&6&lPing: &f%player_ping%'
+  - ''
+
+refresh-ticks: 20
+# 20 ticks is 1 second
+
+# SetScore: https://github.com/ZachsonDev/SetScore
